@@ -30,7 +30,7 @@ button {
     background-color: #d49ad0;
     cursor: pointer;
     transition: border-color 0.25s;
-    color: #ffffff;
+    color: white;
 }
 
 button:hover {
